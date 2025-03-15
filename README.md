@@ -6,7 +6,17 @@ This is a To-Do List App built using HTML, CSS, and JavaScript. The app allows u
 
 ## 🚀 Features
 
-✅ Add new tasks dynamically✅ Mark tasks as completed with a strike-through effect✅ Delete tasks with a single click✅ Persistent storage using LocalStorage✅ Minimalist and user-friendly UI✅ Responsive design for all devices
+✅ Add new tasks dynamically
+
+✅ Mark tasks as completed with a strike-through effect
+
+✅ Delete tasks with a single click
+
+✅ Persistent storage using LocalStorage
+
+✅ Minimalist and user-friendly UI
+
+✅ Responsive design for all devices
 
 ## 🛠️ Technologies Used
 
@@ -31,9 +41,11 @@ Your tasks are saved in LocalStorage, so they persist even after refreshing the 
 
 📁 To-Do-List-App
 
-│── 📄 index.html      # Application structure
-│── 🎨 style.css       # Styling and layout
-│── 🎮 script.js       # Task management logic
+│── 📄 index.html          # Application structure
+
+│── 🎨 style.css           # Styling and layout
+
+│── 🎮 script.js           # Task management logic
 
 ## 💻 Installation & Usage
 
